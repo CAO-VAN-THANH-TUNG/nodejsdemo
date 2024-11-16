@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "quanlylichdatcho",
   "version": "1.0.0",
   "main": "index.js",
@@ -18,5 +19,18 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
+=======
+  "name": "kiem-thu-phan-mem-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+>>>>>>> e24ca07eb2a04e110fbe63ea7c7e69310e3d0c35
   }
 }
